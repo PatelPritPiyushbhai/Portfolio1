@@ -2,4 +2,4 @@
 
 My personal site built using [React](https://reactjs.org/)
 
-API_KEY="sk-efsfibzsijwdh9d98dawidbascbkjsn"
+API_KEY=os.getenv("API_KEY")
